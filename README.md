@@ -15,4 +15,4 @@ The following URL is an example to access the web service: http://127.0.0.1:5000
 The web service results are formated in HTML code. We create a table that shows the values of the features and the corresponding predicted class. 
 Results are given in HTML: 
 
-![image](https://user-images.githubusercontent.com/100626319/168499280-d6460083-640d-4e0a-966c-38c6b300a82d.png)
+![image](https://user-images.githubusercontent.com/100626319/168499323-5df4f51f-aef5-445e-b266-10295d3553e9.png)

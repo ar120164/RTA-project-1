@@ -14,5 +14,5 @@ First, we create the Perceptron class. Then we create a web service under the fo
 The following URL is an example to access the web service: http://127.0.0.1:5000/?sepal=3.5,4.7,6.7&petal=2.1,1.3,9.8
 The web service results are formated in HTML code. We create a table that shows the values of the features and the corresponding predicted class. 
 Results are given in HTML: 
-![image](https://user-images.githubusercontent.com/100626319/168499190-cc696c9a-79d4-4102-ad63-7667990be2e6.png)
 
+![image](https://user-images.githubusercontent.com/100626319/168499280-d6460083-640d-4e0a-966c-38c6b300a82d.png)

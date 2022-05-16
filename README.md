@@ -1,7 +1,7 @@
 # RTA-project-1
 ## Flask application with Perceptron model and Iris data
 This script contains one web service: 
-* **getPredict()**: returns a prediction based on petal and sepal lenghts. 
+* **getPredict()**: returns a prediction of class of Iris plant based on petal and sepal lenghts. 
 ### Required libraries
 First we need to install the required libraries.
 * Flask
